@@ -6,3 +6,10 @@ Yall need to have:
 4.JO MAMA
 
 8=======================================>
+
+
+HoW tO RUn
+$ git clone RGVprog/RGVEngine
+$ mkdir bin
+$ make final
+$ ./prog

@@ -1,15 +1,16 @@
-bruh dis sht for linux only
-Yall need to have:
-1.glfw
-2.assimp
-3.cglm
-4.JO MAMA
-
-8=======================================>
-
-
-HoW tO RUn
-$ git clone RGVprog/RGVEngine
-$ mkdir bin
-$ make final
-$ ./prog
+bruh dis sht for linux only\n
+Yall need to have:\n
+1.glfw\n
+2.assimp\n
+3.cglm\n
+4.JO MAMA\n
+\n
+8=======================================>\n
+\n
+\n
+HoW tO RUn\n
+$ git clone RGVprog/RGVEngine\n
+$ cd RGVEngine/\n
+$ mkdir bin\n
+$ make final\n
+$ ./prog\n
